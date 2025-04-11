@@ -19,14 +19,17 @@ width: 100%
     align-items: center;
     justify-items: start;
 
+
+}
+
+.hero{
+  text-align: left!important;
 }
 
 .hero-button{
   border-radius: 8px;
 }
-.container{
-  text-align: center;
-}
+
 .thebody {
     font-family: "Ubuntu", sans-serif;
     font-style: normal;
@@ -43,6 +46,9 @@ width: 100%
 
 .the-cards {
     border-radius: 16px;
+}
+.card-text{
+  text-align: center;
 }
 
 .features-main {
